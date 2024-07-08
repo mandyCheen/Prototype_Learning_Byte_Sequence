@@ -9,7 +9,7 @@ from plot_utils import *
 
 SEED = 7
 
-def plot_rho_delta(rho, delta):
+def plot_rho_delta(rho, delta, family = None):
 	'''
 	Plot scatter diagram for rho-delta points
 
@@ -18,8 +18,8 @@ def plot_rho_delta(rho, delta):
 		delta : delta list
 	'''
 	logger.info("PLOT: rho-delta plot")
-	plot_scatter_diagram(0, rho[1:], delta[1:], x_label='rho', y_label='delta', title='Decision Graph')
-	plt.savefig('Decision Graph.jpg')
+	plot_scatter_diagram(0, rho[1:], delta[1:], x_label='rho', y_label='delta', title=f'Decision Graph {family}', )
+	# plt.savefig('Decision Graph.jpg')
 
 
 def plot_cluster(cluster, family = None):
@@ -47,10 +47,10 @@ def plot_cluster(cluster, family = None):
 	dp_mds = mds.fit_transform(dp.astype(np.float64))
 	logger.info("PLOT: end mds, start plot")
 	plot_scatter_diagram(1, dp_mds[:, 0], dp_mds[:, 1], title=f'2D Nonclassical Multidimensional Scaling {family}', style_list = cls)
-	plt.savefig("2D Nonclassical Multidimensional Scaling.jpg")
+	# plt.savefig("2D Nonclassical Multidimensional Scaling.jpg")
 
 
-def plot_rhodelta_rho(rho, delta):
+def plot_rhodelta_rho(rho, delta, family = None):
 	'''
 	Plot scatter diagram for rho*delta_rho points
 
@@ -72,8 +72,9 @@ def plot_rhodelta_rho(rho, delta):
 	plt.xlabel('sorted rho')
 	plt.ylabel('rho*delta')
 	plt.title("Decision Graph RhoDelta-Rho")
+	plt.savefig(f'./pic/Decision Graph RhoDelta-Rho {family}.jpg', dpi=300)
 	plt.show()
-	plt.savefig('Decision Graph RhoDelta-Rho.jpg')
+	# plt.savefig('Decision Graph RhoDelta-Rho.jpg')
 
 
 if __name__ == '__main__':

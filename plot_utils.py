@@ -5,7 +5,7 @@ import logging
 import numpy as np
 import matplotlib.pyplot as plt
 np.random.seed(7)
-def plot_scatter_diagram(which_fig, x, y, x_label = 'x', y_label = 'y', title = 'title', style_list = None):
+def plot_scatter_diagram(which_fig, x, y, x_label = 'x', y_label = 'y', title = 'title', style_list = None, family = None):
 	'''
 	Plot scatter diagram
 
@@ -50,6 +50,7 @@ def plot_scatter_diagram(which_fig, x, y, x_label = 'x', y_label = 'y', title = 
 	plt.title(title)
 	plt.xlabel(x_label)
 	plt.ylabel(y_label)
+	plt.savefig(f'./pic/{title}.jpg', dpi=300)
 	plt.show()
 
 if __name__ == '__main__':
