@@ -1,0 +1,540 @@
+Family pos: camelot, Family neg: gafgyt
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9574999999999999
+
+Family pos: camelot, Family neg: meterpreter
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.9675
+
+Family pos: camelot, Family neg: mirai
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.8450000000000001
+
+Family pos: camelot, Family neg: ngioweb
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.99
+
+Family pos: camelot, Family neg: rekoobe
+best parameters:
+{'C': 0.1, 'degree': 4, 'kernel': 'poly'}
+best score:
+0.95
+
+Family pos: camelot, Family neg: sliver
+best parameters:
+{'C': 1, 'degree': 5, 'kernel': 'poly'}
+best score:
+0.8125
+
+Family pos: camelot, Family neg: sshdoor
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.8575000000000002
+
+Family pos: camelot, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9674999999999999
+
+Family pos: camelot, Family neg: xmrig
+best parameters:
+{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.7749999999999999
+
+Family pos: gafgyt, Family neg: camelot
+best parameters:
+{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8225
+
+Family pos: gafgyt, Family neg: meterpreter
+best parameters:
+{'C': 0.1, 'degree': 3, 'kernel': 'poly'}
+best score:
+0.8875
+
+Family pos: gafgyt, Family neg: mirai
+best parameters:
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+best score:
+0.7675
+
+Family pos: gafgyt, Family neg: ngioweb
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.985
+
+Family pos: gafgyt, Family neg: rekoobe
+best parameters:
+{'C': 0.5, 'degree': 3, 'kernel': 'poly'}
+best score:
+0.9
+
+Family pos: gafgyt, Family neg: sliver
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.975
+
+Family pos: gafgyt, Family neg: sshdoor
+best parameters:
+{'C': 0.1, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.8699999999999999
+
+Family pos: gafgyt, Family neg: tsunami
+best parameters:
+{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8424999999999999
+
+Family pos: gafgyt, Family neg: xmrig
+best parameters:
+{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.835
+
+Family pos: meterpreter, Family neg: camelot
+best parameters:
+{'C': 1, 'gamma': 0.5, 'kernel': 'rbf'}
+best score:
+0.6675
+
+Family pos: meterpreter, Family neg: gafgyt
+best parameters:
+{'C': 0.1, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.7075
+
+Family pos: meterpreter, Family neg: mirai
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.6925
+
+Family pos: meterpreter, Family neg: ngioweb
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.645
+
+Family pos: meterpreter, Family neg: rekoobe
+best parameters:
+{'C': 0.1, 'gamma': 0.2, 'kernel': 'rbf'}
+best score:
+0.735
+
+Family pos: meterpreter, Family neg: sliver
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.655
+
+Family pos: meterpreter, Family neg: sshdoor
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.7325
+
+Family pos: meterpreter, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.6849999999999999
+
+Family pos: meterpreter, Family neg: xmrig
+best parameters:
+{'C': 1, 'gamma': 0.2, 'kernel': 'rbf'}
+best score:
+0.6975
+
+Family pos: mirai, Family neg: camelot
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8074999999999999
+
+Family pos: mirai, Family neg: gafgyt
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8125
+
+Family pos: mirai, Family neg: meterpreter
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.9625
+
+Family pos: mirai, Family neg: ngioweb
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.97
+
+Family pos: mirai, Family neg: rekoobe
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.8300000000000001
+
+Family pos: mirai, Family neg: sliver
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9650000000000001
+
+Family pos: mirai, Family neg: sshdoor
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.8324999999999999
+
+Family pos: mirai, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8025
+
+Family pos: mirai, Family neg: xmrig
+best parameters:
+{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8225000000000001
+
+Family pos: ngioweb, Family neg: camelot
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+1.0
+
+Family pos: ngioweb, Family neg: gafgyt
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.7575000000000001
+
+Family pos: ngioweb, Family neg: meterpreter
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.985
+
+Family pos: ngioweb, Family neg: mirai
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.9974999999999999
+
+Family pos: ngioweb, Family neg: rekoobe
+best parameters:
+{'C': 0.5, 'degree': 5, 'kernel': 'poly'}
+best score:
+0.9775
+
+Family pos: ngioweb, Family neg: sliver
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9800000000000001
+
+Family pos: ngioweb, Family neg: sshdoor
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9875
+
+Family pos: ngioweb, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9800000000000001
+
+Family pos: ngioweb, Family neg: xmrig
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.9875
+
+Family pos: rekoobe, Family neg: camelot
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.8525
+
+Family pos: rekoobe, Family neg: gafgyt
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9600000000000002
+
+Family pos: rekoobe, Family neg: meterpreter
+best parameters:
+{'C': 0.1, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.8724999999999999
+
+Family pos: rekoobe, Family neg: mirai
+best parameters:
+{'C': 1, 'degree': 3, 'kernel': 'poly'}
+best score:
+0.7150000000000001
+
+Family pos: rekoobe, Family neg: ngioweb
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.6125
+
+Family pos: rekoobe, Family neg: sliver
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.6699999999999999
+
+Family pos: rekoobe, Family neg: sshdoor
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.8400000000000001
+
+Family pos: rekoobe, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9574999999999999
+
+Family pos: rekoobe, Family neg: xmrig
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.8575000000000002
+
+Family pos: sliver, Family neg: camelot
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.7575000000000001
+
+Family pos: sliver, Family neg: gafgyt
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.9475
+
+Family pos: sliver, Family neg: meterpreter
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.835
+
+Family pos: sliver, Family neg: mirai
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.79
+
+Family pos: sliver, Family neg: ngioweb
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.72
+
+Family pos: sliver, Family neg: rekoobe
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.835
+
+Family pos: sliver, Family neg: sshdoor
+best parameters:
+{'C': 0.5, 'gamma': 0.2, 'kernel': 'rbf'}
+best score:
+0.72
+
+Family pos: sliver, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'gamma': 0.5, 'kernel': 'rbf'}
+best score:
+0.7575000000000001
+
+Family pos: sliver, Family neg: xmrig
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.7224999999999999
+
+Family pos: sshdoor, Family neg: camelot
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.78
+
+Family pos: sshdoor, Family neg: gafgyt
+best parameters:
+{'C': 0.5, 'degree': 4, 'kernel': 'poly'}
+best score:
+0.96
+
+Family pos: sshdoor, Family neg: meterpreter
+best parameters:
+{'C': 0.5, 'degree': 3, 'kernel': 'poly'}
+best score:
+0.97
+
+Family pos: sshdoor, Family neg: mirai
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9049999999999999
+
+Family pos: sshdoor, Family neg: ngioweb
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.9974999999999999
+
+Family pos: sshdoor, Family neg: rekoobe
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.9625
+
+Family pos: sshdoor, Family neg: sliver
+best parameters:
+{'C': 0.5, 'degree': 4, 'kernel': 'poly'}
+best score:
+0.9724999999999999
+
+Family pos: sshdoor, Family neg: tsunami
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9875
+
+Family pos: sshdoor, Family neg: xmrig
+best parameters:
+{'C': 1, 'degree': 3, 'kernel': 'poly'}
+best score:
+0.8775000000000001
+
+Family pos: tsunami, Family neg: camelot
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.85
+
+Family pos: tsunami, Family neg: gafgyt
+best parameters:
+{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.82
+
+Family pos: tsunami, Family neg: meterpreter
+best parameters:
+{'C': 0.1, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.93
+
+Family pos: tsunami, Family neg: mirai
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8225
+
+Family pos: tsunami, Family neg: ngioweb
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.975
+
+Family pos: tsunami, Family neg: rekoobe
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.86
+
+Family pos: tsunami, Family neg: sliver
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.975
+
+Family pos: tsunami, Family neg: sshdoor
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.85
+
+Family pos: tsunami, Family neg: xmrig
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.865
+
+Family pos: xmrig, Family neg: camelot
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.8025
+
+Family pos: xmrig, Family neg: gafgyt
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.9574999999999999
+
+Family pos: xmrig, Family neg: meterpreter
+best parameters:
+{'C': 0.5, 'degree': 2, 'kernel': 'poly'}
+best score:
+0.9775
+
+Family pos: xmrig, Family neg: mirai
+best parameters:
+{'C': 0.1, 'degree': 3, 'kernel': 'poly'}
+best score:
+0.86
+
+Family pos: xmrig, Family neg: ngioweb
+best parameters:
+{'C': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.585
+
+Family pos: xmrig, Family neg: rekoobe
+best parameters:
+{'C': 0.1, 'kernel': 'linear'}
+best score:
+0.9199999999999999
+
+Family pos: xmrig, Family neg: sliver
+best parameters:
+{'C': 0.5, 'kernel': 'linear'}
+best score:
+0.9324999999999999
+
+Family pos: xmrig, Family neg: sshdoor
+best parameters:
+{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+best score:
+0.875
+
+Family pos: xmrig, Family neg: tsunami
+best parameters:
+{'C': 0.5, 'degree': 5, 'kernel': 'poly'}
+best score:
+0.9199999999999999
+
